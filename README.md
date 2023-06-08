@@ -1,7 +1,8 @@
 ### Hi there 👋,I'm Kaushik Chhetri
 
 # 💫 About Me:
-- A passinate individual who loves building web applications, a developer by passion, an engineer by profession.<br>-  I am dedicated to creating and optimizing user-friendly web solutions and interactions for organizations to help them achieve their goals.<br><br>🌍  I'm based in West Bengal,India and currently residing at Bangalore,India.<br>🖥️  See my portfolio at https://kaushik-chhetri-portfolio.netlify.app/<br>✉️  You can contact me at kaushikc005@gmail.com<br>🧠  Currently I'm learning Next JS & Typescript.
+- A passinate individual who loves building web applications, a developer by passion, an engineer by profession.<br>
+- I am dedicated to creating and optimizing user-friendly web solutions and interactions for organizations to help them achieve their goals.<br><br>🌍  I'm based in West Bengal,India and currently residing at Bangalore,India.<br>🖥️  See my portfolio at https://kaushik-chhetri-portfolio.netlify.app/<br>✉️  You can contact me at kaushikc005@gmail.com<br>🧠  Currently I'm learning Next JS & Typescript.
 
 
 ## 🌐 Socials:
