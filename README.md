@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Kaushik Chhetri
+### Hi there 👋,I'm Kaushik
 
 # 💫 About Me:
 - A passinate individual who loves building web applications, a developer by passion, an engineer by profession.<br>
